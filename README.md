@@ -1,6 +1,6 @@
 ### Immutable Queue
 #### Description
-Feel free to add it as a library as it's configured as a jar library.
+I've implemented Immutable Queue in 2 ways - array based and ArrayDeque based. Covered both of them by tests. Also, feel free to add it as a library as it's configured as a jar library.
 #### Run tests
 ```shell script
 mvn test
